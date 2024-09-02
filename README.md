@@ -19,18 +19,18 @@ Use the following credentials to log in:
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/starklord17/nextjs-dashboard-course.git
-   cd nextjs-dashboard-course
+   git clone https://github.com/Starklord17/NextFinancialDashboard.git
+   cd NextFinancialDashboard
    ```
 2. Install dependencies:
    ```bash
-   npm install
+   pnpm install
    ```
 3. Set up your environment variables in a `.env.local` file.
 
 4. Run the development server:
    ```bash
-   npm run dev
+   pnpm run dev
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the app.
